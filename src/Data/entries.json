@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "title": "Bsc in mathematics",
+      "company": "TechCorp",
+      "location": "Remote",
+      "start": "2022-01",
+      "end": "2024-07",
+      "description": "Built responsive UIs using React and Tailwind CSS.",
+      "tags": ["React", "JavaScript", "UI"]
+    },
+    {
+      "title": "Web Designer",
+      "company": "Creative Inc.",
+      "location": "Berlin",
+      "start": "2020-05",
+      "end": "2021-12",
+      "description": "Designed and implemented client websites.",
+      "tags": ["Design", "HTML", "CSS"]
+    }
+  ]
+}
